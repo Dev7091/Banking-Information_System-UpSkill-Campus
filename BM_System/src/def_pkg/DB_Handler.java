@@ -180,7 +180,7 @@ public class DB_Handler {
 		}
 		catch (SQLException e)
 		{
-			System.out.println("Something went wrong while verifying cnic");
+			System.out.println("Something went wrong while verifying Aadhar");
 		}
 	}
 	
@@ -248,7 +248,7 @@ public class DB_Handler {
 		}
 		catch (SQLException e)
 		{
-			System.out.println("Something went wrong while verifying cnic");
+			System.out.println("Something went wrong while verifying Aadhar");
 		}
 		return "";
 	}
@@ -304,7 +304,7 @@ public class DB_Handler {
 		}
 		catch (SQLException e)
 		{
-			System.out.println("Something went wrong while verifying cnic");
+			System.out.println("Something went wrong while verifying Aadhar");
 		}
 		return 0;
 	}
@@ -356,7 +356,7 @@ public class DB_Handler {
 		}
 		catch (SQLException e)
 		{
-			System.out.println("Something went wrong while verifying cnic");
+			System.out.println("Something went wrong while verifying Aadhar");
 		}
 	}
 	
@@ -413,7 +413,7 @@ public class DB_Handler {
 		}
 		catch (SQLException e)
 		{
-			System.out.println("Something went wrong while verifying cnic");
+			System.out.println("Something went wrong while verifying Aadhar");
 		}
 		return false;
 	}
@@ -766,7 +766,7 @@ public class DB_Handler {
 		int res = 0;
 		try {	
 			
-			String html_start = "<body> <h1>ABC Bank</h1><h4>F9 Branch, Islamabad</h4>"
+			String html_start = "<body> <h1>State Bank of India</h1><h4>SBI Rajiv Chowk Branch, New Delhi</h4>"
 					+ "<p>"+client.getFName()+" "+client.getLName()+"<br>Account Number: "+account.getAccountNum()+"<br>Current Account"
 					+ "<br>Transaction Dates: "+From+" - "+To+"</p><h4>E Bank Statement</h4>"
 					+ "<table border=1 ><tr>"
