@@ -16,7 +16,7 @@ The Banking Information System is a desktop application developed using Java Swi
 
 ## Screenshots
 
-| Screenshot 1 | Screenshot 2 |
+| Column 1 | Column 2 |
 |--------------|--------------|
 | ![Screenshot 1](screenshots/1.png) | ![Screenshot 2](screenshots/2.png) |
 | ![Screenshot 3](screenshots/3.png) | ![Screenshot 4](screenshots/4.png) |
